@@ -1,5 +1,5 @@
 
-# 🛍️ Superstore Sales & Profit Insights Dashboard
+# 🛍️ Superstore Sales & Profit Insights - Tableau Dashboard
 
 **Author:** Susan Grace Mithika  
 **Tool Used:** Tableau Public  
