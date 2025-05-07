@@ -5,12 +5,18 @@
 **Tool Used:** Tableau Public  
 **Domain:** Retail / E-commerce Analytics  
 **Focus:** Sales performance, profitability insights, discount effectiveness, and regional performance
-**Data:** You View the data used [here]()
+**Data:** You View the data used [here](https://github.com/SusanGrace1/Sales-Profits/blob/main/Superstore%20Data.xls) .
 ---
 
 ## 📌 Project Overview
 
 This interactive dashboard analyzes sales, profit, discount trends, and regional performance using historical data from a fictional Superstore. The goal is to uncover actionable insights to drive business decisions, improve product mix, and optimize regional and segment strategies.
+
+---
+
+## 📈 Tableau Dashboard
+
+![Here is the Tableau Dashboard I created]()
 
 ---
 
