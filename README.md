@@ -1,7 +1,7 @@
 
 # 🛍️ Superstore Sales & Profit Insights Dashboard
 
-**Author:** Susan (Grace) Mithika  
+**Author:** Susan Grace Mithika  
 **Tool Used:** Tableau Public  
 **Domain:** Retail / E-commerce Analytics  
 **Focus:** Sales performance, profitability insights, discount effectiveness, and regional performance
@@ -124,18 +124,18 @@ This interactive dashboard analyzes sales, profit, discount trends, and regional
 
 - `Tableau Dashboard (Screenshot).jpg`
 - `README.md`
-- (Optional) `PDF Report`
+-  `PDF Report`
 
 ---
 
 ## 🔗 View the Dashboard Online  
-**(Add Tableau Public link here after publishing)**
+**[Tableau Public Link](https://public.tableau.com/app/profile/susan.grace1557/viz/project1_17465533719370/Dashboard1?publish=yes)**
 
 ---
 
 ## ✨ About the Author
 
-Susan (Grace) Mithika is a Data Analyst passionate about transforming data into meaningful business insights. She specializes in Power BI, Tableau, SQL, and Python and is based in Nairobi, Kenya.
+Susan Grace Mithika is a Data Analyst passionate about transforming data into meaningful business insights. She specializes in Power BI, Tableau, SQL, and Python and is based in Nairobi, Kenya.
 
 ---
 
