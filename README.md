@@ -16,7 +16,7 @@ This interactive dashboard analyzes sales, profit, discount trends, and regional
 
 ## 📈 Tableau Dashboard
 
-![Here is the Tableau Dashboard I created](Tableau Screenshot.jpg)
+![Here is the Tableau Dashboard I created](https://github.com/SusanGrace1/Sales-Profits/blob/main/Tableau%20Screenshot.jpg)
 
 ---
 
